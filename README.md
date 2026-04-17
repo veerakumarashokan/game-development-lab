@@ -29,6 +29,16 @@ Notes/
 
 ---
 
+## Development Approach
+
+This repository follows a structured progression for Pokémon ROM hacking:
+
+- Legacy tools for foundational learning  
+- Hybrid tools for extended ROM modifications  
+- Decomp-based tools for full custom game development  
+
+The goal is to move from basic editing to advanced system-level development.
+
 ## Author
 
 Veerakumar Ashokan
