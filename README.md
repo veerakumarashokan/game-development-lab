@@ -39,6 +39,15 @@ This repository follows a structured progression for Pokémon ROM hacking:
 
 The goal is to move from basic editing to advanced system-level development.
 
+---
+
+## Status
+
+- Environment setup: Completed  
+- Tool documentation: Completed  
+- Map editing: In progress  
+- Decomp setup: Pending  
+
 ## Author
 
 Veerakumar Ashokan
