@@ -2,7 +2,7 @@
 
 ## Movement Permissions
 
-![Movement Permissions](Notes/Mapping/images/movement-permissions-01.png)
+![Movement Permissions](images/movement-permissions-01.png)
 
 Movement permissions define where the player can walk.
 
@@ -12,7 +12,7 @@ Movement permissions define where the player can walk.
 
 ## Warp System
 
-![Warp Setup](Notes/Mapping/images/warp-setup-01.png)
+![Warp Setup](images/warp-setup-01.png)
 
 Warps connect different maps such as:
 
@@ -28,7 +28,7 @@ Warps connect different maps such as:
 
 ## Testing
 
-![Warp Emulator Test]Notes/Mapping/images/warp-emulator-test-01.png)
+![Warp Emulator Test](images/warp-emulator-test-01.png)
 
 - Verified player movement  
 - Checked warp transitions  
