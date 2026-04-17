@@ -2,6 +2,8 @@
 
 ## Movement Permissions
 
+![Movement Permissions](images/movement-permissions-1.png)
+
 Movement permissions define where the player can walk.
 
 - Walkable tiles allow movement  
@@ -9,6 +11,8 @@ Movement permissions define where the player can walk.
 - Incorrect setup can cause glitches  
 
 ## Warp System
+
+![Warp Setup](images/warp-setup-1.png)
 
 Warps connect different maps such as:
 
@@ -23,6 +27,8 @@ Warps connect different maps such as:
 - Must test using emulator  
 
 ## Testing
+
+![Warp Emulator Test](images/warp-emulator-test-1.png)
 
 - Verified player movement  
 - Checked warp transitions  
