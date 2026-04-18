@@ -20,12 +20,16 @@ To design and build a unique Pokémon experience with custom systems and gamepla
 ---
 
 ## Repository Structure
-
-Maps/
-Systems/
-Scripts/
+```
 Assets/
+Journal
+Maps/
 Notes/
+Projects/
+Scripts/
+Systems/
+Tools/
+```
 
 ---
 
