@@ -2,25 +2,33 @@
 
 Decomp tools use source code instead of direct ROM editing, enabling full control over game development.
 
+---
+
 ## Tools
 
-- pokeemerald (decomp project)
-- Porymap (map editor for decomp)
-- VS Code (development environment)
+- pokeemerald (decomp project)  
+- Porymap (map editor for decomp)  
+- VS Code (development environment)  
+
+---
 
 ## Purpose
 
-- Build custom Pokémon games from source
-- Implement advanced mechanics
-- Create original storylines and systems
+- Build custom Pokémon games from source  
+- Implement advanced mechanics  
+- Create original systems and gameplay  
+
+---
 
 ## Advantages
 
-- Full control over game logic
-- Scalable and maintainable
-- Industry-level workflow
+- Full control over game logic  
+- Scalable and maintainable workflow  
+- Supports complex system development  
 
-## Requirement
+---
 
-- Basic programming knowledge
-- Git and development environment setup
+## Requirements
+
+- Basic programming knowledge  
+- Git and development environment setup  
