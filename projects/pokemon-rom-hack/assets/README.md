@@ -1,13 +1,24 @@
 # Assets
 
-This section contains game assets and resources.
+This section contains visual and graphical resources used in the ROM hack.
 
-## Includes
+## Purpose
 
-- Tilesets  
-- Sprites  
-- Graphics  
+- Store sprites, tiles, and graphics  
+- Support visual customization  
+- Maintain organized game assets  
+
+---
+
+## Approach
+
+Assets are:
+- structured  
+- reusable  
+- aligned with game design  
+
+---
 
 ## Goal
 
-To manage visual elements used in the ROM hack.
+Enhance the visual experience of the game through custom assets.
