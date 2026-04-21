@@ -1,8 +1,6 @@
-# Tool Setup
+# Tools
 
-## Tools
-
-This section documents all tools used in Pokémon ROM hacking, categorized by methodology.
+This section documents the tools used in Pokémon ROM hacking, organized by development methodology.
 
 ---
 
@@ -12,41 +10,42 @@ This section documents all tools used in Pokémon ROM hacking, categorized by me
 Direct ROM editing tools used for basic modifications.
 
 Examples:
-- Advance Map
-- Advance Text
+- Advance Map  
+- Advance Text  
 
 ---
 
 ### Hybrid Tools
-Modern tools that extend ROM editing capabilities with better UI and flexibility.
+Modern tools that extend ROM editing with improved usability and flexibility.
 
 Examples:
-- Hex Maniac Advanced
+- Hex Maniac Advanced  
 
 ---
 
 ### Decomp Tools
-Source-based development tools for advanced ROM hacking.
+Source-based development tools for advanced ROM hacking and full customization.
 
 Examples:
-- pokeemerald (pret)
+- pokeemerald (pret)  
 
 ---
 
-## Current Plan
+## Approach
 
-We will follow a structured approach:
+The tools are explored in a structured progression:
 
-1. Setup all tools (legacy → hybrid → decomp)
-2. Explore each tool (UI, features, limitations)
-3. Avoid deep usage during setup phase
-4. Move to practical usage after exploration
+1. Set up all tools (legacy → hybrid → decomp)  
+2. Understand features and limitations  
+3. Avoid deep usage during initial setup  
+4. Move to practical implementation afterward  
 
 ---
 
 ## Goal
 
-To understand and utilize tools across all levels:
-- Basic ROM editing
-- Advanced hybrid workflows
-- Full-scale source-based game development
+To build proficiency across all levels of ROM hacking:
+
+- Basic ROM editing  
+- Advanced hybrid workflows  
+- Source-level game development  
