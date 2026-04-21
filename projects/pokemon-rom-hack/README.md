@@ -4,53 +4,52 @@ This repository documents the development of a custom Pokémon ROM hack project,
 
 ---
 
-## Features (Planned)
+## Objective
 
-- Custom base/hub system  
-- Pokémon sanctuary (free roaming Pokémon)  
+To design and build a unique Pokémon experience with custom systems, world design, and gameplay mechanics.
+
+---
+
+## Planned Features
+
+- Custom base / hub system  
+- Pokémon sanctuary with free roaming Pokémon  
 - Story-driven world  
 - Progressive area unlocking  
 
 ---
 
-## Objective
+## Project Structure
 
-To design and build a unique Pokémon experience with custom systems and gameplay mechanics.
-
----
-
-## Repository Structure
-```
-Assets/
-Journal
-Maps/
-Notes/
-Projects/
-Scripts/
-Systems/
-Tools/
-```
+assets – Sprites, graphics, and visual resources
+journal – Development logs and progress tracking
+maps – Map design and world layouts
+notes – Design ideas and planning
+scripts – Event scripts and logic
+systems – Core gameplay systems and mechanics
+tools – Utilities and ROM hacking tool
 
 ---
 
 ## Development Approach
 
-This repository follows a structured progression for Pokémon ROM hacking:
+The project follows a structured progression:
 
-- Legacy tools for foundational learning  
-- Hybrid tools for extended ROM modifications  
-- Decomp-based tools for full custom game development  
+- Start with foundational ROM editing tools  
+- Expand into advanced modifications  
+- Progress toward system-level customization  
 
-The goal is to move from basic editing to advanced system-level development.
+Focus is on iterative development — building, testing, and improving continuously.
 
 ---
 
 ## Status
 
 - Environment setup: Completed  
-- Tool documentation: Completed  
-- Map editing: In progress  
-- Decomp setup: Pending  
+- Tool understanding: In progress  
+- Development: Early stage  
+
+---
 
 ## Author
 
