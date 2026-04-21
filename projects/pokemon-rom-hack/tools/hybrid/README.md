@@ -1,18 +1,24 @@
 # Hybrid Tools
 
-Hybrid tools enhance ROM editing with advanced features while still working on compiled ROMs.
+Hybrid tools extend traditional ROM editing by providing advanced features while still working on compiled ROMs.
+
+---
 
 ## Tools
 
-- Hex Maniac Advance
+- Hex Maniac Advance  
+
+---
 
 ## Purpose
 
-- Modify advanced game mechanics
-- Extend capabilities of legacy tools
-- Enable deeper customization without full decomp setup
+- Modify advanced game mechanics  
+- Extend capabilities beyond legacy tools  
+- Enable deeper customization without full decomp setup  
+
+---
 
 ## Limitations
 
-- Still constrained by ROM structure
-- Complex features can be unstable
+- Constrained by ROM structure  
+- Complex features may be unstable  
