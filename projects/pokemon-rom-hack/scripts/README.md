@@ -1,13 +1,24 @@
 # Scripts
 
-This section contains event scripting and game logic.
+This section contains event scripts and logic used in the ROM hack.
 
-## Includes
+## Purpose
 
-- NPC events  
-- Map triggers  
-- Game interactions  
+- Define in-game events  
+- Control interactions  
+- Implement gameplay logic  
+
+---
+
+## Approach
+
+Focus on:
+- structured scripting  
+- clear logic  
+- functional behavior  
+
+---
 
 ## Goal
 
-To implement game behavior and interactive elements.
+Enable dynamic and interactive gameplay.
