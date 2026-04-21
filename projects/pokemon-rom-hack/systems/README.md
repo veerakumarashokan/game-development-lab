@@ -1,13 +1,24 @@
 # Systems
 
-This section contains gameplay systems and mechanics.
+This section contains core gameplay systems and mechanics.
 
-## Includes
+## Purpose
 
-- Base / hub system  
-- Pokémon sanctuary system  
-- Progression systems  
+- Implement custom features  
+- Define core game behavior  
+- Build unique gameplay systems  
+
+---
+
+## Approach
+
+Focus on:
+- modular design  
+- scalability  
+- gameplay impact  
+
+---
 
 ## Goal
 
-To design and implement unique gameplay mechanics.
+Create meaningful and unique gameplay mechanics.
