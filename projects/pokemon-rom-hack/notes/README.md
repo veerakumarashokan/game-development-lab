@@ -1,13 +1,24 @@
 # Notes
 
-This section contains ideas, concepts, and design notes for the project.
+This section contains design ideas and planning for the ROM hack.
 
-## Includes
+## Purpose
 
-- Game design ideas  
-- Feature planning  
-- System concepts  
+- Capture gameplay ideas  
+- Plan systems and features  
+- Support development decisions  
+
+---
+
+## Approach
+
+Focus on:
+- clarity  
+- creativity  
+- practical implementation  
+
+---
 
 ## Goal
 
-To organize thoughts and plan development clearly.
+Use notes as a reference during development.
